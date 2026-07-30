@@ -36,7 +36,7 @@ tictactoe-streamlit/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.8+
 - **Framework:** [Streamlit](https://streamlit.io/)
