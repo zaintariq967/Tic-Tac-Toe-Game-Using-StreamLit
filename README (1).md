@@ -1,30 +1,30 @@
-#  Tic Tac Toe — Streamlit Edition
+#  Tic Tac Toe Streamlit Edition
 
 A fully-featured Tic Tac Toe game built with Python and Streamlit. It includes an interactive web UI, real-time win and draw detection, highlighted winning lines, persistent score tracking across rounds, a detailed move history log, and a one-click round reset, all wrapped in a clean, responsive, lightweight design that's simple to run anywhere.
 
 ---
 
-## 📸 Preview
+## Preview
 
 > Run the app locally and play directly in your browser — no installation of a game engine required, just Python and Streamlit.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎮 **Two-player local gameplay** (X vs O) on the same device
-- 🏆 **Automatic win detection** for all rows, columns, and diagonals
-- 🟩 **Winning line highlight** — the winning combination is visually marked
-- 🤝 **Draw detection** when the board fills up with no winner
-- 📊 **Persistent scoreboard** that tracks X wins, O wins, and draws across rounds
-- 📜 **Move history log** showing every move made during the current round
-- 🔄 **New Round** button to reset the board while keeping scores
-- 🗑️ **Reset Scores** button to clear the scoreboard completely
-- 🖥️ **Clean, responsive UI** built entirely with Streamlit — no extra frontend framework needed
+- **Two-player local gameplay** (X vs O) on the same device
+- **Automatic win detection** for all rows, columns, and diagonals
+- **Winning line highlight** — the winning combination is visually marked
+- **Draw detection** when the board fills up with no winner
+- **Persistent scoreboard** that tracks X wins, O wins, and draws across rounds
+- **Move history log** showing every move made during the current round
+- **New Round** button to reset the board while keeping scores
+- **Reset Scores** button to clear the scoreboard completely
+- **Clean, responsive UI** built entirely with Streamlit — no extra frontend framework needed
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 tictactoe-streamlit/
@@ -95,7 +95,7 @@ Streamlit will open the game automatically in your default browser at `http://lo
 
 ---
 
-## 🧩 Code Overview
+## Code Overview
 
 | Component | Description |
 |---|---|
@@ -121,7 +121,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🗺️ Roadmap / Ideas for Future Improvements
+## Roadmap / Ideas for Future Improvements
 
 - [ ] Add a single-player mode with an AI opponent (Minimax algorithm)
 - [ ] Add sound effects for moves and wins
