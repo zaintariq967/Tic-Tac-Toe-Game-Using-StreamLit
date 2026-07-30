@@ -1,4 +1,4 @@
-# ❌⭕ Tic Tac Toe — Streamlit Edition
+#  Tic Tac Toe — Streamlit Edition
 
 A fully-featured Tic Tac Toe game built with Python and Streamlit. It includes an interactive web UI, real-time win and draw detection, highlighted winning lines, persistent score tracking across rounds, a detailed move history log, and a one-click round reset, all wrapped in a clean, responsive, lightweight design that's simple to run anywhere.
 
@@ -44,12 +44,12 @@ tictactoe-streamlit/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/tictactoe-streamlit.git
+git clone https://github.com/zaintariq967/tictactoe-streamlit.git
 cd tictactoe-streamlit
 ```
 
@@ -79,11 +79,11 @@ streamlit run tictactoe.py
 
 Streamlit will open the game automatically in your default browser at `http://localhost:8501`.
 
-> ⚠️ **Note (PyCharm users):** Don't run `tictactoe.py` with the normal ▶ Run button — Streamlit apps must be launched with the `streamlit run` command above. You can also set this up as a custom PyCharm run configuration using "Module name: streamlit" with parameters `run tictactoe.py`.
+> **Note (PyCharm users):** Don't run `tictactoe.py` with the normal ▶ Run button — Streamlit apps must be launched with the `streamlit run` command above. You can also set this up as a custom PyCharm run configuration using "Module name: streamlit" with parameters `run tictactoe.py`.
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 1. Player **X** always goes first.
 2. Click any empty cell on the 3×3 grid to place your mark.
@@ -107,7 +107,7 @@ Streamlit will open the game automatically in your default browser at `http://lo
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 ```
 streamlit>=1.32.0
@@ -131,7 +131,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to fork this repo and submit a pull request.
@@ -144,7 +144,7 @@ Feel free to fork this repo and submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License — feel free to use, modify, and distribute it.
 
@@ -163,16 +163,12 @@ furnished to do so, subject to the following conditions...
 
 ---
 
-## 👤 Author
+## Author
 
-**Your Name**  
-Built with ❤️ using Python & Streamlit in PyCharm.
+**Muhammad Zain Tariq**  
+Built using Python & Streamlit in PyCharm.
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: [@zaintariq967](https://github.com/zaintariq967)
+- LinkedIn: [Muhammad Zain Tariq](https://linkedin.com/in/mzaintariq967)
 
 ---
-
-## ⭐ Show Your Support
-
-If you liked this project, give it a ⭐ on GitHub — it helps a lot!
